@@ -6,8 +6,9 @@ This project involves creating a trading bot that predicts the closing price of 
 2. Installation
 3. Data Collection
 4. Model Training
-5. Real-Time Prediction and Trading
-6. Telegram Bot Updates
+5. Telegram Bot Updates
+6. Real-Time Prediction and Trading
+7. Performance	Metrics
 
 ## Overview
 This bot is designed to predict the closing price of BTCUSD using an LSTM neural network and execute trades on MetaTrader5. It also sends updates to a Telegram channel using Telegram bot.
